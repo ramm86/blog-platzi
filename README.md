@@ -1,0 +1,2 @@
+# blog-platzi
+practice
